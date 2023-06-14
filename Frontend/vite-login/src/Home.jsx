@@ -7,7 +7,7 @@ const Home = () => {
     <div>
 <h1>Hello {location.state.id}</h1>
 <Link to="/about">About</Link>
-
+<Link to="/admin">Admin</Link>
     </div>
   )
 }
